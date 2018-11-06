@@ -1,0 +1,16 @@
+c:\users\korisnik\source\repos\BLOK2_projekat\Server\bin\Debug\Server.exe.config
+c:\users\korisnik\source\repos\BLOK2_projekat\Server\bin\Debug\Server.exe
+c:\users\korisnik\source\repos\BLOK2_projekat\Server\bin\Debug\Server.pdb
+c:\users\korisnik\source\repos\BLOK2_projekat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+c:\users\korisnik\source\repos\BLOK2_projekat\Server\obj\Debug\Server.exe
+c:\users\korisnik\source\repos\BLOK2_projekat\Server\obj\Debug\Server.pdb
+C:\Users\Administrator\Desktop\BLOK2_projekat\Server\bin\Debug\Server.exe.config
+C:\Users\Administrator\Desktop\BLOK2_projekat\Server\bin\Debug\Server.exe
+C:\Users\Administrator\Desktop\BLOK2_projekat\Server\bin\Debug\Server.pdb
+C:\Users\Administrator\Desktop\BLOK2_projekat\Server\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\BLOK2_projekat\Server\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\BLOK2_projekat\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\BLOK2_projekat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BLOK2_projekat\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Administrator\Desktop\BLOK2_projekat\Server\obj\Debug\Server.exe
+C:\Users\Administrator\Desktop\BLOK2_projekat\Server\obj\Debug\Server.pdb

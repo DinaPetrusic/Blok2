@@ -1,0 +1,11 @@
+c:\users\korisnik\source\repos\BLOK2_projekat\Common\bin\Debug\Common.dll
+c:\users\korisnik\source\repos\BLOK2_projekat\Common\bin\Debug\Common.pdb
+c:\users\korisnik\source\repos\BLOK2_projekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+c:\users\korisnik\source\repos\BLOK2_projekat\Common\obj\Debug\Common.dll
+c:\users\korisnik\source\repos\BLOK2_projekat\Common\obj\Debug\Common.pdb
+C:\Users\Administrator\Desktop\BLOK2_projekat\Common\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\BLOK2_projekat\Common\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\BLOK2_projekat\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\BLOK2_projekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BLOK2_projekat\Common\obj\Debug\Common.dll
+C:\Users\Administrator\Desktop\BLOK2_projekat\Common\obj\Debug\Common.pdb

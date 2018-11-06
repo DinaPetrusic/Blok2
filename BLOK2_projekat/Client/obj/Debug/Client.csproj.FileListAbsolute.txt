@@ -1,0 +1,16 @@
+c:\users\korisnik\source\repos\BLOK2_projekat\Client\bin\Debug\Client.exe.config
+c:\users\korisnik\source\repos\BLOK2_projekat\Client\bin\Debug\Client.exe
+c:\users\korisnik\source\repos\BLOK2_projekat\Client\bin\Debug\Client.pdb
+c:\users\korisnik\source\repos\BLOK2_projekat\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+c:\users\korisnik\source\repos\BLOK2_projekat\Client\obj\Debug\Client.exe
+c:\users\korisnik\source\repos\BLOK2_projekat\Client\obj\Debug\Client.pdb
+C:\Users\Administrator\Desktop\BLOK2_projekat\Client\bin\Debug\Client.exe.config
+C:\Users\Administrator\Desktop\BLOK2_projekat\Client\bin\Debug\Client.exe
+C:\Users\Administrator\Desktop\BLOK2_projekat\Client\bin\Debug\Client.pdb
+C:\Users\Administrator\Desktop\BLOK2_projekat\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\BLOK2_projekat\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BLOK2_projekat\Client\obj\Debug\Client.exe
+C:\Users\Administrator\Desktop\BLOK2_projekat\Client\obj\Debug\Client.pdb
+C:\Users\Administrator\Desktop\BLOK2_projekat\Client\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\BLOK2_projekat\Client\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\BLOK2_projekat\Client\obj\Debug\Client.csproj.CopyComplete
